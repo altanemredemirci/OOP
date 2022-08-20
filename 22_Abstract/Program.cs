@@ -28,7 +28,7 @@ namespace _22_Abstract
 
         public  void Oku()
         {
-            Console.WriteLine("sadasdsdad");
+            Console.WriteLine("Ben bir Aracım");
         }
 
         public abstract void Yaz();

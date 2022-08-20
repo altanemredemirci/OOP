@@ -1,0 +1,8 @@
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\17_Polymorphism\bin\Debug\17_Polymorphism.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\17_Polymorphism\bin\Debug\17_Polymorphism.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\17_Polymorphism\bin\Debug\17_Polymorphism.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\17_Polymorphism\obj\Debug\17_Polymorphism.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\17_Polymorphism\obj\Debug\17_Polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\17_Polymorphism\obj\Debug\17_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\17_Polymorphism\obj\Debug\17_Polymorphism.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\17_Polymorphism\obj\Debug\17_Polymorphism.pdb

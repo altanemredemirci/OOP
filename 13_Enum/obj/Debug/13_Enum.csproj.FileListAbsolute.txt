@@ -1,0 +1,8 @@
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\13_Enum\bin\Debug\13_Enum.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\13_Enum\bin\Debug\13_Enum.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\13_Enum\bin\Debug\13_Enum.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\13_Enum\obj\Debug\13_Enum.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\13_Enum\obj\Debug\13_Enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\13_Enum\obj\Debug\13_Enum.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\13_Enum\obj\Debug\13_Enum.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\13_Enum\obj\Debug\13_Enum.pdb

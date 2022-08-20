@@ -1,0 +1,16 @@
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\bin\Debug\03_Sinif_LoginRegister.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\bin\Debug\03_Sinif_LoginRegister.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\bin\Debug\03_Sinif_LoginRegister.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\bin\Debug\03_Sinif_LoginRegister.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\bin\Debug\03_Sinif_LoginRegister.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\bin\Debug\03_Sinif_LoginRegister.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\03_Sinif_LoginRegister\obj\Debug\03_Sinif_LoginRegister.pdb

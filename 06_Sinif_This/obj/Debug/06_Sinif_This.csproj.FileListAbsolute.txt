@@ -1,0 +1,16 @@
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\bin\Debug\06_Sinif_This.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\bin\Debug\06_Sinif_This.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\bin\Debug\06_Sinif_This.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\bin\Debug\06_Sinif_This.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\bin\Debug\06_Sinif_This.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\bin\Debug\06_Sinif_This.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\06_Sinif_This\obj\Debug\06_Sinif_This.pdb

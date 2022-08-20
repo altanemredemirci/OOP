@@ -1,0 +1,16 @@
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\bin\Debug\07_Sinif_Constructor.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\bin\Debug\07_Sinif_Constructor.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\bin\Debug\07_Sinif_Constructor.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\bin\Debug\07_Sinif_Constructor.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\bin\Debug\07_Sinif_Constructor.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\bin\Debug\07_Sinif_Constructor.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8-9-10.Hafta\OOP_ObjectOrientedProgramming\07_Sinif_Constructor\obj\Debug\07_Sinif_Constructor.pdb

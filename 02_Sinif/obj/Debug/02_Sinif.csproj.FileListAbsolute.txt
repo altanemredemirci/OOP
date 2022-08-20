@@ -1,0 +1,8 @@
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\02_Sinif\bin\Debug\02_Sinif.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\02_Sinif\bin\Debug\02_Sinif.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\02_Sinif\bin\Debug\02_Sinif.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\02_Sinif\obj\Debug\02_Sinif.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\02_Sinif\obj\Debug\02_Sinif.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\02_Sinif\obj\Debug\02_Sinif.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\02_Sinif\obj\Debug\02_Sinif.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\02_Sinif\obj\Debug\02_Sinif.pdb

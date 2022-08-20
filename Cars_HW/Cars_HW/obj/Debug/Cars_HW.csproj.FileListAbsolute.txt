@@ -1,0 +1,8 @@
+C:\Users\ser\source\repos\Cars_HW\Cars_HW\bin\Debug\Cars_HW.exe.config
+C:\Users\ser\source\repos\Cars_HW\Cars_HW\bin\Debug\Cars_HW.exe
+C:\Users\ser\source\repos\Cars_HW\Cars_HW\bin\Debug\Cars_HW.pdb
+C:\Users\ser\source\repos\Cars_HW\Cars_HW\obj\Debug\Cars_HW.csproj.AssemblyReference.cache
+C:\Users\ser\source\repos\Cars_HW\Cars_HW\obj\Debug\Cars_HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\ser\source\repos\Cars_HW\Cars_HW\obj\Debug\Cars_HW.csproj.CoreCompileInputs.cache
+C:\Users\ser\source\repos\Cars_HW\Cars_HW\obj\Debug\Cars_HW.exe
+C:\Users\ser\source\repos\Cars_HW\Cars_HW\obj\Debug\Cars_HW.pdb

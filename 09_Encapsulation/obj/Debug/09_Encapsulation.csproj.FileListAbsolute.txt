@@ -1,0 +1,8 @@
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\09_Encapsulation\bin\Debug\09_Encapsulation.exe.config
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\09_Encapsulation\bin\Debug\09_Encapsulation.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\09_Encapsulation\bin\Debug\09_Encapsulation.pdb
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\09_Encapsulation\obj\Debug\09_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\09_Encapsulation\obj\Debug\09_Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\09_Encapsulation\obj\Debug\09_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\09_Encapsulation\obj\Debug\09_Encapsulation.exe
+C:\Users\altan\source\repos\YAZILIMUZMANLIGI_13-16\C#\8.Hafta\OOP_ObjectOrientedProgramming\09_Encapsulation\obj\Debug\09_Encapsulation.pdb

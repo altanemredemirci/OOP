@@ -1,0 +1,79 @@
+*******************************************************************
+ *****************    	   Ödev2	**************************
+*******************************************************************
+
+Çeþitli seviyelerdeki öðrenci bilgilerini tutan ve aþaðýda verilen iþlemleri yapan programý; 
+Kalýtým, kapsülleme ve isimlendirme standartlarýný dikkate alarak yazýnýz.
+Kullanýlacak bilgiler: Sýnýf tanýmlama,yapýcý metot kullanýmý ve kalýtýmý, kalýtým, kapsülleme, arraylist kullanýmý, akýþ kontrol mekanizmalarý kullanýmý,
+
+Soru: 
+Tüm öðrenciler(Ogrenci) için saklanacak bilgiler:
+----------------------------------------
+	* Ad Soyad(tek özellikte tutulacak)
+	* Okul Numarasý
+	* Okul Adý = "Açýktan Eðitim"	(Alt sýnýflarda tanýmlanýrsa deðiþecek)
+	* Ögretim Duzeyi(IlkOgretim,OrtaOgretim,Lise,Lisans) enum tipinde  4 elemanlý
+
+	NOT: Yukarýdaki bilgileri tutmak için bir ArrayList tanýmlanacak(sadece bu 4 bilgi tutacak)
+
+Tüm öðrenciler(Ogrenci) için uygulanacak iþlemler:
+-----------------------------------------
+	* Yapýcý metot ile nesne tanýmlandýðýnda notlar otomatik olarak ArrayListe eklenecek.(constructer 4 parametre ile çaðýrýlacak.)
+	* NotHesapla(): Ekrana "Not Bilgisi Eksik !" yazdýracak.(Alt sýnýflarda tanýmlanýrsa deðiþecek)
+
+
+LiseOgrencisi için saklanacak bilgiler:
+---------------------------------------
+	* Okul Adý
+	* Not1 (1. sýnav notu)
+	* Not2 (2. sýnav notu)
+
+	
+LiseOgrencisi için uygulanacak iþlemler:
+----------------------------------------
+	* Constructer metot 3 özelliði parametre olarak isteyecek.
+	* NotHesapla(): 2 notun aritmetik ortalamasýný alacak ekrana yazdýracak.
+
+5	85.00-100	Pekiyi
+4	70.00-84.99	Ýyi
+3	60.00-69.99	Orta
+2	50.00-59.99	Geçer	
+1	0 - 49.99	Tekrar
+
+LisansOgrencisi için saklanacak bilgiler:
+-----------------------------------------
+	* Fakülte
+	* VizeNotu
+	* FinalNotu
+
+LisansOgrencisi için uygulanacak iþlemler:
+------------------------------------------
+	* Constructer metot 3 özelliði parametre olarak isteyecek.
+	* NotHesapla(): vizenin %40 ýný finalin %60 ýný alýp ortalamayý aþaðýdaki gibi derecelendirerek ekrana yazdýracak.
+
+	85.00-100	A
+	70.00-84.99	B
+	60.00-69.99	C
+	50.00-59.99	D
+	45- 49.99	E
+	0 - 44.99	F
+Program sýnýfýnda tanýmlanacak metot:
+
+OgrenciNotHesapla(Ogrenci ogr)
+	ogr.NotHesapla
+
+Main metodunda yapýlacak iþlemler:
+----------------------------------
+	Lise ve Lisans tipinde ayrý nesne bilgileri girilerek tanýmlanacak.
+	Nesneler OgrenciNotHesapla metoduna parametre olarak gönderilerek not hesaplama metotlarý çalýþtýrýlacak.
+
+*******************************************************************
+ *****************    	   Baþarýlar	**************************
+*******************************************************************
+				
+
+
+
+
+
+	

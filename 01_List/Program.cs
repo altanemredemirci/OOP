@@ -11,6 +11,8 @@ namespace _01_List
     {
         static void Main(string[] args)
         {
+            string sayi = "5";
+
             int[] sayilar = new int[10];
             ArrayList sayilarArray = new ArrayList();
 
